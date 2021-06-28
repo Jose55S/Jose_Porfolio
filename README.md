@@ -62,7 +62,7 @@ What was nice about the learnings, is about the exercises using real data!
 
 -> Relational Model Constraints.
  
- # Project 4: Write and Save Files in Python
+ # [Project 4: Write and Save Files in Python](https://github.com/Jose55S/Jose_Porfolio/blob/main/PY0101EN-4-2-WriteFile.ipynb)
  Writing the text to file in the Python Programming Language. By the end of this lab, you'll know how to write to file and copy the file
 ![](https://github.com/Jose55S/Jose_Porfolio/blob/main/images/Screenshot%202021-06-28%20193519.png)
 
