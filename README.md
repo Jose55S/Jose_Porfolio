@@ -1,2 +1,2 @@
-# Jose_Porfolio
+# Jose_Portfolio
 Example data science porfolio
