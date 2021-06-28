@@ -1,24 +1,8 @@
 # Jose_Portfolio
 Example data science porfolio
-Databases_and_SQL_for_Data_Science-
-Description
-
--> Statements: CREATE, DELETE, SELECT, INSERT and UPDATE table.
-
--> COUNT, LIMIT, DISTINCT.
-
--> String Patterns, Ranges, Sorting, Grouping.
-
--> Sub-queries and multiple tables(implicit join)
-
--> Database access from Python.
-
--> Analyzing data with Python.
-
--> JOIN(inner, outer).
-
--> Working with real-word datasets.
-
--> Relational databases concepts.
-
--> Relational Model Constraints.
+Procjet 1: Data Science Salary Estimator: Project Overview
+Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
+Scraped over 1000 job descriptions from glassdoor using python and selenium
+Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
+Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
+Built a client facing API using flask
