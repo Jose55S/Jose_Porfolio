@@ -35,7 +35,7 @@ I looked at the distributions of the data and the value counts for the various c
 ![](https://github.com/Jose55S/Jose_Porfolio/blob/main/images/positions_by_state.png)
 ![](https://github.com/Jose55S/Jose_Porfolio/blob/main/images/correlation_visual.png)
 
-# Project 3: for Coursera - Databases_and_SQL_for_Data_Science
+# Project 3: for Coursera - Databases_and_SQL_for_Data_Science[DB0201EN-Week3-1-2-Querying-v4-py.ipynb]
 
 ## Description 
 This course teaches a lot of things, since how to run basic queries until modeling databases. 
