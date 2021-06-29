@@ -12,6 +12,8 @@ Example data science porfolio
 # Project 2: Data Cleaning
 After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
 
+![](https://github.com/Jose55S/Jose_Porfolio/blob/main/images/data_cleaning_cycle.jpg)
+
 *	Parsed numeric data out of salary 
 *	Made columns for employer provided salary and hourly wages 
 *	Removed rows without salary 
