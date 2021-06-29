@@ -27,14 +27,14 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 *	Column for simplified job title and Seniority 
 *	Column for description length
 
-![](https://github.com/Jose55S/Jose_Porfolio/blob/main/images/data_cleaning_cycle.jpg)
+![alt text](https://github.com/Jose55S/Jose_Porfolio/blob/main/images/data_cleaning_cycle.jpg)
 
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
-![](https://github.com/Jose55S/Jose_Porfolio/blob/main/images/salary_by_job_title.png)
-![](https://github.com/Jose55S/Jose_Porfolio/blob/main/images/positions_by_state.png)
-![](https://github.com/Jose55S/Jose_Porfolio/blob/main/images/correlation_visual.png)
+![alt text](https://github.com/Jose55S/Jose_Porfolio/blob/main/images/salary_by_job_title.png)
+![alt text](https://github.com/Jose55S/Jose_Porfolio/blob/main/images/positions_by_state.png)
+![alt text](https://github.com/Jose55S/Jose_Porfolio/blob/main/images/correlation_visual.png)
 
 # [Project 3: for Coursera - Databases_and_SQL_for_Data_Science](https://github.com/Jose55S/Jose_Porfolio/blob/main/DB0201EN-Week3-1-1-Connecting-v4-py.ipynb)
 
@@ -65,5 +65,5 @@ What was nice about the learnings, is about the exercises using real data!
  
 # [Project 4: Write and Save Files in Python](https://github.com/Jose55S/Jose_Porfolio/blob/main/PY0101EN-4-2-WriteFile.ipynb)
  Writing the text to file in Python Programming Language where you learn know how to write to file and copy the file.
-![](https://github.com/Jose55S/Jose_Porfolio/blob/main/images/Screenshot%202021-06-28%20193519.png)
+![alt text](https://github.com/Jose55S/Jose_Porfolio/blob/main/images/Screenshot%202021-06-28%20193519.png)
 
