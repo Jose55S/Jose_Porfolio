@@ -9,7 +9,7 @@ Example data science porfolio
 * Built a client facing API using flask 
  
  
-# Project 2: Data Cleaning
+# [Project 2: Data Cleaning](https://github.com/Jose55S/Jose_Porfolio/blob/main/images/How%20to%20clean%20data%20in%20Python.docx)
 After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
 
 *	Parsed numeric data out of salary 
