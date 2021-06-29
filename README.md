@@ -1,4 +1,3 @@
-# Jose's_Portfolio
 Example data science porfolio
 
 # [Project 1: Data Science Salary Estimator: Project Overview](https://github.com/playingNumbers/ds_salary_proj)
